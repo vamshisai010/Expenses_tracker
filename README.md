@@ -31,11 +31,16 @@
     
   Menu Options:
   
-    Add an Expense: Allows the user to input details of a new expense and adds it to the list of expenses.
-    View Monthly Expense Summary: Prompts the user to enter a month and year, then calculates and displays the total expenses for that month and year.
-    View Category-wise Expense Summary: Calculates and displays the total expenses for each category.
-    Show Expenses Data: Displays all recorded expenses with their details (date, amount, description, category).
-    Exit: Saves the expenses to a file and exits the program.
+    Add an Expense: 
+      Allows the user to input details of a new expense and adds it to the list of expenses.
+    View Monthly Expense Summary:
+      Prompts the user to enter a month and year, then calculates and displays the total expenses for that month and year.
+    View Category-wise Expense Summary: 
+      Calculates and displays the total expenses for each category.
+    Show Expenses Data: 
+      Displays all recorded expenses with their details (date, amount, description, category).
+    Exit: 
+      Saves the expenses to a file and exits the program.
 
   Error Handling:
   
